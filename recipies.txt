@@ -11,3 +11,6 @@ new added commit 3
 
 
 This is commited in new branch
+
+
+DOne with path 2 changes ...
