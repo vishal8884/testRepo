@@ -10,4 +10,9 @@ new added commit 2
 new added commit 3
 
 
+This is commited in new branch
+
+
+DOne with path 2 changes ...
+
 Done with main commit
